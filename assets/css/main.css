@@ -1990,7 +1990,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #856f3e;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2066,7 +2066,7 @@
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #2b252c;
+			background: #000000;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2096,7 +2096,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/coffee-meeting.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -2177,7 +2177,7 @@
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #1d1d1d;
 			display: block;
 			position: absolute;
 			left: 0;
