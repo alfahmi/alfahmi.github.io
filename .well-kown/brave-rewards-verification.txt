@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: alfahmi.github.io 
-Token: 5033c69a424ad22a2b9e9bc08586c881620474abb31682c1f4268de814b01f8a
