@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alfahmi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alfahmi.site
+  * I am alfahmi (https://keybase.io/alfahmi) on keybase.
+  * I have a public key ASC9w3bJkQ8ZncC98m5-cbmZU_uM3DVB_mPRYlhVG7hMvgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201115d9f1e95fddd83b471cf7e108733b2b359fe5faff883975f43fee2f36364c0a",
+      "host": "keybase.io",
+      "kid": "0120bdc376c9910f199dc0bdf26e7e71b99953fb8cdc3541fe63d16258551bb84cbe0a",
+      "uid": "f956b11c2b35b1e4bc33354c0d946819",
+      "username": "alfahmi"
+    },
+    "merkle_root": {
+      "ctime": 1571330086,
+      "hash": "2bd75c73725d5393c05004611e63bbc2977c339702748e0095a54ed5580462f67fa89af8aeaa4596ccd53214ffe53c930337d5e34ed93aea9baa275d5fc17e03",
+      "hash_meta": "9a41fba7d4ddacd0cf2890cf1e9e16de00f076bc28308e03bbfd2405121cc315",
+      "seqno": 8196915
+    },
+    "service": {
+      "entropy": "73jBjCC7gqKv7f8ODWVkF3Rm",
+      "hostname": "alfahmi.site",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571330096,
+  "expire_in": 504576000,
+  "prev": "24eec97ec5f071c253e627ddd5eb06c3f1d00a2688a4a33dd4817356297fb99e",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvcN2yZEPGZ3AvfJufnG5mVP7jNw1Qf5j0WJYVRu4TL4Kp3BheWxvYWTESpcCE8QgJO7JfsXwccJT5ifd1esGw/HQCiaIpKM91IFzVil/uZ7EIEZJZ2EW2m5K+fgtPG7PE2YJzqteqHUCnAyqIxxdvlZSAgHCo3NpZ8RAWLHJr5gTJw6bnTpNp/b5BbTLMaLwBLeAwfoYPiDyZGj/AZWL+WCb4SpBxbsxmdVINmg2A8mAnxKlSyas4FOGC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEk73FnmJnDzXTZYb3nMVKb0WSk6yT77Bw9PlnwGJcwQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alfahmi
+
+==================================================================
